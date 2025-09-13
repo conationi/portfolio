@@ -1,2 +1,2 @@
 # Portfolio
- Aqui está meus sites na jornada de estudos de HTML, CSS e JavaScript.
+ Aqui estão meus sites criados durante minha jornada de estudos em HTML, CSS e JavaScript.

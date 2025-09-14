@@ -1,0 +1,11 @@
+Tamanho das Imagens:
+
+3:4
+
+Grande:
+larg/alt
+450/600
+
+Pequena:
+larg/alt
+150/200

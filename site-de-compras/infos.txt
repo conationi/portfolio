@@ -1,0 +1,19 @@
+-=--=--=--=--=--=--=--=--=--=-
+Tamanho das Imagens:
+
+3:4
+
+Grande:
+larg/alt
+450/600
+
+Pequena:
+larg/alt
+150/200
+-=--=--=--=--=--=--=--=--=--=-
+Paleta:
+#E00000 - Vermelho Principal
+#E0DD00 - Amarelo
+#008AE0 - Azul
+#8B2E2E - Vermelho escuro
+#304E61 - Azul Escuro

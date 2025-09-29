@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site de Compras</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+
+<body>
+    <header>
+        <a href="home.html"><img src="imagens/logo.png" alt="Logo do Site"></a>
+
+        <input type="text" placeholder="Pesquisa" name="pesquisa" id="pesquisa">
+
+        <nav>
+            <span class="material-symbols-outlined" style="font-size: 36px;">
+                favorite
+            </span>
+            <span class="material-symbols-outlined" style="font-size: 36px;">
+                shopping_cart
+            </span>
+            <span class="material-symbols-outlined" style="font-size: 36px;">
+                person
+            </span>
+        </nav>
+    </header>
+
+    <main>
+        <section id="categoria">
+            <ul class="opcao">
+                <li onclick="submenu('subroupa')">Roupas</li>
+                <ul class="subcat" id="subroupa">
+                    <li>opc 1</li>
+                    <li>opc 2</li>
+                    <li>opc 3</li>
+                    <li>opc 4</li>
+                </ul>
+
+                <li onclick="submenu('subeletro')">Eletrônicos</li>
+                <ul class="subcat" id="subeletro">
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </ul>
+        </section>
+
+        <section id="produto">
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam, fugit nam dignissimos dolore
+                beatae
+                facere doloremque aut autem dolor delectus, assumenda nihil laboriosam sint alias quo vero
+                consequuntur
+                minus velit?</p>
+        </section>
+
+        <section id="filtro">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum labore, facilis rem aliquam praesentium,
+                voluptatem perspiciatis corrupti excepturi voluptates dolorum repudiandae sit enim assumenda iure natus
+                dolore sint, magni quas.</p>
+        </section>
+    </main>
+</body>
+
+<script src="script.js"></script>
+
+</html>
